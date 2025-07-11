@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gbdev.pokedex",
+      "sha256_cert_fingerprints":
+      ["4D:43:DF:FD:E3:4A:7A:44:E4:B3:8D:0D:A2:53:3B:FD:0A:CC:C4:EC:29:1A:11:15:BD:CA:CD:E0:D4:03:F2:BB"]
+    }
+  }]
